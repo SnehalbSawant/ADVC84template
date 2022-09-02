@@ -34,7 +34,7 @@ function my_keydown(e)
 	}
 }
 
-function aplhabetkey()
+function alphabetkey()
 {
 	//upload respective image with the message. 
 
